@@ -76,6 +76,7 @@ class Aplicativo
                     "4 - Imprimir temperaturas\n" +
                     "5 - Terminar Programa\n"+
                     "6 - Media");
+            //escrever leitura de entrada para o programa
             if(opcao == null)
             		;
             else
