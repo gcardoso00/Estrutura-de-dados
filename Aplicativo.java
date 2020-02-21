@@ -76,7 +76,9 @@ class Aplicativo
                     "4 - Imprimir temperaturas\n" +
                     "5 - Terminar Programa\n"+
                     "6 - Media");
-            
+            if(opcao == null)
+            		;
+            else
             		
             if(opcao == null || opcao.equals("5"))
                 break;
